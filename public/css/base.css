@@ -9,6 +9,7 @@ body{
 	padding: 20px;
 	background: white;
 	box-shadow: 5px 5px rgba(0,0,0,0.1);
+	text-align: center;
 }
 .quote{
 	font-weight: 200px;
@@ -36,6 +37,5 @@ a:hover{
 	display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
 
 }
